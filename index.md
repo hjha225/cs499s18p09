@@ -5,7 +5,7 @@ Computer Aided Design for Crash and Crime Scene Investigation - Desktop Applicat
 
 ![siren image](https://thumb1.shutterstock.com/display_pic_with_logo/4153921/540749353/stock-vector-emergency-flashing-police-siren-vector-illustration-police-signal-flasher-isolated-on-black-540749353.jpg)
 
-[Introduction](https://hjha225.github.io/cs499s1809/introduction)  [Requirements](https://hjha225.github.io/cs499s18p09/requirements)  [Design]() [Screens]() [User Scenarios]() [Testing]() [Design Considerations]() [Future Enhancements]() [Conclusions]() [Installment]() [References]()
+[Introduction](https://hjha225.github.io/cs499s18p09/introduction)  [Requirements](https://hjha225.github.io/cs499s18p09/requirements)  [Design](https://hjha225.github.io/cs499s18p09/design) [Screens](https://hjha225.github.io/cs499s18p09/screens) [User Scenarios](https://hjha225.github.io/cs499s18p09/userscenarios) [Testing](https://hjha225.github.io/cs499s18p09/testing) [Design Considerations](https://hjha225.github.io/cs499s18p09/designconsiderations) [Future Enhancements](https://hjha225.github.io/cs499s18p09/future) [Conclusions](https://hjha225.github.io/cs499s18p09/conclusions) [Installment](https://hjha225.github.io/cs499s18p09/installment) [References](https://hjha225.github.io/cs499s18p09/references)
 
 ### Meet the Team! 
 Hannah Hatch: <br>
@@ -39,9 +39,9 @@ Email: deltavinnovationsinc@gmail.com
 <br><br>
 [Tricia's Updates](https://hjha225.github.io/cs499s18p09/tricias)
 <br><br>
-[Sulav's Updates]() 
+[Sulav's Updates](https://hjha225.github.io/cs499s18p09/sulavk) 
 <br><br>
-[Shelby's Updates]()
+[Shelby's Updates](https://hjha225.github.io/cs499s18p09/shelbyo)
 
 ### Disclaimer 
 Disclaimer:
