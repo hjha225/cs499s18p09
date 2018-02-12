@@ -5,39 +5,39 @@ Computer Aided Design for Crash and Crime Scene Investigation - Desktop Applicat
 
 ### Meet the Team! 
 Hannah Hatch: 
-
+<br>
 I am a currently a student at the University in Kentucky. I will be graduating this May with a Bachelor’s in Computer Science. I have spent the last 2 years working as a research assistant under Dr. Brent Seales on his Digital Restoration Project. In my free time, I enjoy traveling and playing video games. 
-
+<br>
 Email: hjha225@g.uky.edu
-
+<br>
 Tricia Sallee: 
-
+<br>
 I am a senior in Computer Science and Math. I am pursuing a career in software engineering, specifically game design. I am a math tutor at Bluegrass Community and Technical College. I enjoy hiking, listening to music, and playing video games with my husband and kids.
-
+<br>
 Email: 
-
+<br>
 Shelby Oldfield: 
-
+<br>
 I am a Computer Science major, with minors in Mathematics and Physics. I will be graduating this December, after which I plan to further my education through a Master’s in CS, with an emphasis on Software Engineering. 
-
+<br>
 Email: shelby.oldfield@uky.edu
-
+<br>
 Sulav Khadka: 
-
+<br>
 Email: sulav.khadka@uky.edu
-
+<br>
 Paul Piwowarski: 
-
+<br>
 Instructor 
-
+<br>
 Email: 
-
+<br>
 Mike Flamm:
-
+<br>
 Delta V Innovations
-
+<br>
 Email: deltavinnovationsinc@gmail.com
-
+<br>
 ### Find out what we've been up to! 
 
 
