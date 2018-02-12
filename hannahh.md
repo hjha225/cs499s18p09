@@ -1,4 +1,4 @@
-## Weekly Updates! 
+# Weekly Updates! 
 
 ### Week of 2/5 
 This week we met as a team on Monday. We discussed vasrious topics that we wanted to talk about at our meeting with the customer on Wednesday.
