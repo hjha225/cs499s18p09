@@ -33,9 +33,12 @@ Delta V Innovations<br>
 Email: deltavinnovationsinc@gmail.com
 <br>
 ### Find out what we've been up to! 
-[Hannah's Updates](https://hjha225.github.io/cs499s18p09/hannahh)
+[Hannah's Updates](https://hjha225.github.io/cs499s18p09/hannahh) 
+<br>
 [Tricia's Updates](https://hjha225.github.io/cs499s18p09/tricias)
-[Sulav's Updates]()
+<br>
+[Sulav's Updates]() 
+<br>
 [Shelby's Updates]()
 
 ### Disclaimer 
