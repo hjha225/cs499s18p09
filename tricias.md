@@ -1,6 +1,6 @@
-### Tricia Sallee Weekly Updates
+# Tricia Sallee Weekly Updates
 
-**Week of 2/5**
+###**Week of 2/5**
   <br>
   We collaborated with our customer and the mobile and database teams by setting up a Slack. We exchanged email information.
   Our group created a GroupMe to keep in contact. We had a meeting on Monday at 5pm. We discussed how to construct our webpage
