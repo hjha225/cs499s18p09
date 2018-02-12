@@ -4,7 +4,7 @@
    Marksbury Theater by the end of the Spring 2018 Semester. 
 2. Have a common code base compatible with Windows and Mac/Linux 
 3. Define communication protocols, data formats for functions, and programming language for all teams 
-4.Create a GUI 
+4. Create a GUI 
   - A top ribbon consisting of tools
   - Center work and design area
   - Left panel that contains advanced design functions
