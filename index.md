@@ -16,7 +16,7 @@ Email: hjha225@g.uky.edu
 Tricia Sallee: <br>
 I am a senior in Computer Science and Math. I am pursuing a career in software engineering, specifically game design. I am a math tutor at Bluegrass Community and Technical College. I enjoy hiking, listening to music, and playing video games with my husband and kids.
 <br>
-Email: 
+Email: tmsa232@uky.edu
 <br><br>
 Shelby Oldfield: <br>
 I am a Computer Science major, with minors in Mathematics and Physics. I will be graduating this December, after which I plan to further my education through a Master’s in CS, with an emphasis on Software Engineering. 
@@ -28,7 +28,7 @@ Email: sulav.khadka@uky.edu
 <br><br>
 Paul Piwowarski: <br>
 Instructor <br>
-Email: 
+Email: paulp@cs.uky.edu
 <br><br>
 Mike Flamm:<br>
 Delta V Innovations<br>
