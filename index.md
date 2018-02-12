@@ -3,6 +3,8 @@ University of Kentucky - CS 499
 Spring 2018
 Computer Aided Design for Crash and Crime Scene Investigation - Desktop Application
 
+[siren image] (https://thumb1.shutterstock.com/display_pic_with_logo/4153921/540749353/stock-vector-emergency-flashing-police-siren-vector-illustration-police-signal-flasher-isolated-on-black-540749353.jpg)
+
 ### Meet the Team! 
 Hannah Hatch: <br>
 I am a currently a student at the University in Kentucky. I will be graduating this May with a Bachelor’s in Computer Science. I have spent the last 2 years working as a research assistant under Dr. Brent Seales on his Digital Restoration Project. In my free time, I enjoy traveling and playing video games. 
@@ -31,7 +33,10 @@ Delta V Innovations<br>
 Email: deltavinnovationsinc@gmail.com
 <br>
 ### Find out what we've been up to! 
-
+[Hannah's Updates] (https://hjha225.github.io/cs499s18p09/hannahh)
+[Tricia's Updates] (https://hjha225.github.io/cs499s18p09/tricias)
+[Sulav's Updates] ()
+[Shelby's Updates] ()
 
 ### Disclaimer 
 Disclaimer:
