@@ -1,0 +1,19 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+
+#sidebar nav li
+{
+	padding: 6px 8px 6px 0px;
+	text-decoration: none;
+	font-size: 20px;
+	color: #2196F3;
+	display: block;
+}
+
+#sidenav nav li:hover
+{
+	color: #003870;
+}
