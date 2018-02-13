@@ -1,4 +1,4 @@
-#Requirments
+# Requirements
 1. Work with other teams on the database and desktop application to develop the best tools for Delta V Innovations with the goal 
    in mind for future implementation. Our goal will be to have a complete project encompassing these requirements for presentation in 
    Marksbury Theater by the end of the Spring 2018 Semester. 
