@@ -13,7 +13,7 @@
     - Model option button on the top ribbon
     - Create a Report Creation button on the top ribbon
     - Create a Crash Reconstruction option on the top ribbon
-    - Standard options (same as in File Menu)
+    - Standard options (same as in File Menu)<br>
   - Center work and design area
   - Left panel that contains advanced design functions
   - Right panel that contains information that was imported from the mobile device
