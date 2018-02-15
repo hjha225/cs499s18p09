@@ -9,16 +9,16 @@
 4. Create a GUI 
   - File menu dropdown with usual functions(New, Open, Print, Save, Save As, etc.)
   - A top ribbon consisting of tools
-    - Have a Open New Job button
-    - Model option button on the top ribbon
-    - Create a Report Creation button on the top ribbon
-    - Create a Crash Reconstruction option on the top ribbon
-    - Standard options (same as in File Menu)<br>
+  - Have a Open New Job button
+  - Model option button on the top ribbon
+  - Create a Report Creation button on the top ribbon
+  - Create a Crash Reconstruction option on the top ribbon
+  - Standard options (same as in File Menu)<br>
   - Center work and design area
   - Left panel that contains advanced design functions
   - Right panel that contains information that was imported from the mobile device
-    - Have a tab labeled “Photos” for all photos from the mobile application
-    - Separate tabs labeled “Year/Make/Model will appear in separate tabs for each vehicle.
+  - Have a tab labeled “Photos” for all photos from the mobile application
+  - Separate tabs labeled “Year/Make/Model will appear in separate tabs for each vehicle.
   - Simple instructions should be displayed to explain how tools are used
   - Tool names should display when hovering over a tool
  
