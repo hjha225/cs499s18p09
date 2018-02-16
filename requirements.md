@@ -40,7 +40,7 @@
 ### Stretchable goals
    1. Also have a 2D Workspace
 ## Effort and Size Estimation
-
+We estimate that we will write around 1000 lines of code. 
 ## Platforms, Tools and Languages
-
+We will be using C++ and QT on both Mac and PC. Our version control system will be Github.
   
