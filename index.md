@@ -42,6 +42,11 @@ Email: deltavinnovationsinc@gmail.com
 <br><br>
 [Shelby's Updates](https://hjha225.github.io/cs499s18p09/shelbyo)
 
+### Check out the Database and Mobile teams! 
+[Database team](https://cs499s18p10.github.io/cs499s18p10/)
+
+[Mobile Team](https://cs499s18p10.github.io/cs499s18p10/)
+
 ### Disclaimer 
 Disclaimer:
 
