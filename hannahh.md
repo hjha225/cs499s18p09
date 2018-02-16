@@ -9,5 +9,6 @@ goals for the semester. We also set up a meeting with him for next week.
 <br><br> 
 
 ## Week of 2/12
-We reworked our website after unforseen circumstances prevented us from presenting the website we wanted to. We spent part of Monday putting
-together this website. 
+We reworked our website after unforseen circumstances prevented us from presenting the website we wanted to. We spent part of Monday putting together this website. We also met with Mike and nailed down our requirements along with a stretch goal. I refamiliarized
+myself with QT. I also spent time working on an unrelated assignment for the class. 
+<br><br>
