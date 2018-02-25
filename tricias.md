@@ -9,3 +9,7 @@ to put onto our website. Shelby created an initial website that we plan on impro
 
 ## Week of 2/12
 Hannah and I met to change the website. I added all necessary pages to the website. On those that we have no information yet I put In Progress. We met with Mike on Wednesday to discuss the requirements. I changed to requirements according to this meeting. We also decided that Qt would be our GUI language if we ensure that we can customize the number of options on the ribbon. We discussed if we could use open-source or would need a licensed version. Mike consulted his lawyer on this matter and we are able to use the open-source version. I then installed Qt and took multiple tutorials to become familiar with it. I also created a calendar to display our schedule and created a page for it on the website.
+<br><br>
+
+## Week of 2/19
+We designed how our GUI would look based upon the customer's request. There will be four main parts of the GUI. We used the week to get a rough draft of the GUI created. I created the part of the GUI that will display information that is received from the database. I also updated our calendar to reflect our meeting with the professor next week and our midterm presentation.
