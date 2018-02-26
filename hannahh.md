@@ -12,3 +12,7 @@ goals for the semester. We also set up a meeting with him for next week.
 We reworked our website after unforseen circumstances prevented us from presenting the website we wanted to. We spent part of Monday putting together this website. We also met with Mike and nailed down our requirements along with a stretch goal. I refamiliarized
 myself with QT. I also spent time working on an unrelated assignment for the class. 
 <br><br>
+
+## Week of 2/19 
+Not much going on this week as I had to do a few other things for other classes. I did get the tab bar for the GUI done. No team meetings this week due to conflicting schedules. Planned a meeting with Mike for Monday and scheduled meetings for next week. 
+<br><br>
