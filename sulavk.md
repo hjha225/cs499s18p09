@@ -6,3 +6,6 @@ We met as both on Monday and Wednesday. On Monday we discussed the initials of t
 
 ## Week of 2/12
 Over the weeekend we made and reworked the project website. Monday we had a meeting with the customer to finalize the language and framework choices. We decided to go with C++ and Qt. On friday we met during class time to go over the Qt framework. We extablihed a base layout as a team and decided to take the weekend to make ourselves familiar with Qt. I got the github permissions from the customer over the weekend and played around with Qt to get comfortable with it.
+
+## Week of 2/19
+This week was a relatively slow week. We spent it designing a rough Qt design for Mike to see and approve. We all had assigned parts of the framework to work on. Due to major compatibility issues it seems that my Mac is having trouble running the Qt program. I went through a lot of tutorials to get familiar with the framework but was unable to have any saved work on my computer.
