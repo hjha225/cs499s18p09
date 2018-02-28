@@ -33,3 +33,15 @@ around allowing the user to relink Qt and get its source code.
 On Friday, I met with Tricia and Hannah to install Qt, and I worked
 through a simple tutorial involving layouts and buttons to start
 familiarizing myself with the framework.
+
+
+## Week of 2/19
+
+This was a busy week in other classes, for me and others,
+so we weren't able to meet much this week. Most of my efforts simply
+went into better familiarizing myself with QT, and planning for next week.
+
+
+## Week of 2/26
+
+
