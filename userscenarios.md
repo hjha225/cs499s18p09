@@ -21,7 +21,7 @@ User opens the app and is greeted with a login screen <br>
 ## User does not have a login <br>
   + User hits a button indicating that they need to create a login. <br>
   + User is then taken to a form where they enter the following information: 
-    ++ Name
-    ++ Email
-    ++ Password
+    + Name
+    + Email
+    + Password
   + The information is then sent to the Database and the user is logged in. 
