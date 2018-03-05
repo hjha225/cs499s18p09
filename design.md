@@ -10,17 +10,17 @@ The GUI is separated into four parts. The top ribbon has normal functions (file,
 
 <br>
 This is the basic layout of the top ribbon.
-![Top Ribbon](Top Ribbon Design.JPG)
+![Top Ribbon Design](Top Ribbon Design.JPG)
 
 The right portion displays the information retrieved from the database. It has three tabs. These tabs are General Info, Vehicle Info, and Occupant Info. Each Tab will fill up the screen with info when they are clicked. The labels will be to the left and the info to the right.
 This has changed from the original design of using tabs.
 
 This is the original design implemented.
-![Right Side Before](Right Side.JPG)
+![Right side](Right side.JPG)
 
 <br>
 This is the new design that we will implement soon.
-![Right Side Design](Right Side Design.JPG)
+![Right side Design](Right side Design.JPG)
 
 The left portion of the GUI has advanced tools and formulas. 
 
