@@ -20,7 +20,7 @@ This is the original design implemented.
 
 <br>
 This is the new design that we will implement soon.
-![Right side Design](RightsideDesign.png)
+![RightsideDesign](RightsideDesign.png)
 
 The left portion of the GUI has advanced tools and formulas. 
 
