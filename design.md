@@ -26,11 +26,4 @@ The left portion of the GUI has advanced tools and formulas.
 
 The center of the application will be used to create the 3D model of the crash.
 
-## Screens
-![Login](Login.JPG)
-![SignUp](SignUp.JPG)
-![Part of GUI](Part of GUI.JPG)
-
-## Use Cases
-
 
