@@ -46,6 +46,7 @@ This tab will have no left side panel.
 
 The left portion of the GUI has advanced tools and formulas. This will change based upon the tab chosen on the top ribbon.
 Shelby is currently working on the design image of this part of the GUI because the customer just provided the specifics on what tools and buttons it should contain. The following is the basic layout and how it will correspond to the top ribbon.
+<br><br>
 File Tab
   - New
   - Open
@@ -56,9 +57,9 @@ File Tab
   - Import
   - Export
   - Close
-<br>
+<br><br>
 Draw Tab
-<br>
+<br><br>
 When Point is selected
   - Feet/Metric toggle button
   - Layer
@@ -66,7 +67,7 @@ When Point is selected
   - Y-Coordinate
   - Elevation
   - Point to Symbol(drop down arrow with symbols/models found within–symbols will not be populated this semester)
-  <br>
+  <br><br>
 When Line is Selected
   - Feet/Metric toggle button
   - Layer
@@ -77,7 +78,7 @@ When Line is Selected
   - ending elevation
   - Roadway lines
   - symbols, and symbol spacing
-  <br>
+  <br><br>
 When Polyline is Selected
   - Feet/Metric toggle button
   - (2) boxes for types of polylines –polyline and perpendicular polyline
@@ -89,7 +90,7 @@ When Polyline is Selected
   - ending elevation
   - roadway lines
   - symbolsand symbol spacing.
-  <br>
+  <br><br>
 When Curve is Selected
   - Feet/Metric toggle button
   - (2) boxes for types of curves–fittedand spline
@@ -101,7 +102,7 @@ When Curve is Selected
   - ending elevation
   - roadway lines
   - symbols
-  <br>
+  <br><br>
 When Arc is Selected
   - Feet/Metric toggle button
   - (3) boxes for types of arcs–3-point arc
@@ -113,7 +114,7 @@ When Arc is Selected
   - starting elevation
   - ending elevation
   - roadway lines
-  <br>
+  <br><br>
 When Circle is Selected
   - Feet/Metric toggle button
   - (7) boxes for types of circles–center point and side
@@ -127,7 +128,7 @@ When Circle is Selected
   - length
   - width
   - color
-  <br>
+ <br><br>
 When Rectangle is Selected
   - Feet/Metric toggle button
   - (3) boxes for types of rectangles–rectangle
@@ -135,15 +136,15 @@ When Rectangle is Selected
   - irregular cloud (just below each option for circles–have a box that will display the drawn rectangle’sperimeter lengthandarea)
   - layer
   - width of lines and color.
-  <br>
+  <br><br>
 When Photo is Selected
   - Browsebutton which will open a file explorer style windowin the center of the screen
-  <br>
+  <br><br>
 When Fill is selected
   - Place 2 boxes on the top of the left work panel –Color and Hatch
   - Color will open a full color palletthat a user can drag and drop color from the pallet into a closed box which will fill with this color
   - Hatch will do the same thing, but with textures not colors
-
+<br><br>
 The center of the application will be used to create the 3D model of the crash.
 This portion will be implemented with the back-end and may not be fully functional by the end of the semester.
 
