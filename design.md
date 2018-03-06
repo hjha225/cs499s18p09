@@ -13,8 +13,6 @@ on the incident. Extended functionality such as meta-analysis of incidents (i.e.
 number of accidents occur at this intersection in the rain at night") and scene recreation viewable in 
 Augmented Reality (AR) is planned for the future.
 
-<br>
-
 Our team (1 of 3) is specifically working on the desktop application. Our main tasks are creating a 
 user-friendly, intuitive Graphical User Interface (GUI), connecting to the database to begin sending and 
 retrieving data, and beginning to implement the scene recreation tools.

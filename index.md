@@ -18,7 +18,7 @@ I am a senior in Computer Science and Math. I am pursuing a career in software e
 Email: tmsa232@uky.edu
 <br><br>
 Shelby Oldfield: <br>
-I am a Computer Science major, with minors in Mathematics and Physics. I will be graduating this December, after which I plan to further my education through a Master’s in CS, with an emphasis on Software Engineering. 
+I am a Computer Science major, with a minor in Mathematics. I will be graduating this December, after which I plan to further my education through a Master’s in CS, with an emphasis on Software Engineering. In my free time, I enjoy games, music, and creating memories with friends.
 <br>
 Email: shelby.oldfield@uky.edu
 <br><br>
