@@ -44,4 +44,57 @@ went into better familiarizing myself with QT, and planning for next week.
 
 ## Week of 2/26
 
+We met with Mike to evaluate where each team is at and where it is headed, as well as to iron out design 
+kinks and make sure teams are keeping sufficiently in touch. He suggested that we each have at least one 
+member of our team drop in on each other team's meetings.
 
+We also put some deadlines on our work, such as piecing the GUI together and having at least a 'handshake' 
+with the database by spring break, as well as a soft cutoff for adding to the project, to leave room for 
+testing and prettying everything up for the project to be smoothly continued by others.
+
+Finally, we practiced our presentation for the following Monday at PresentationU on Thursday. I think it 
+went well, though we need to be sure to lengthen it and present with some enthusiasm.
+
+
+## Week of 3/5
+
+We began the week with our midterm presentation to the class on Monday. While I am not certain how we did 
+on length, overall, I believe it was a success.
+
+I will continue the week by piecing my part of the GUI with Tricia's. If things take longer than planned, 
+I will have plenty of time to ameliorate things over the break.
+
+
+## Week of 3/11
+
+Spring Break
+
+
+## Week of 3/18
+
+...
+
+
+## Week of 3/25
+
+...
+
+
+## Week of 4/1
+
+...
+
+
+## Week of 4/8
+
+...
+
+
+## Week of 4/15
+
+...
+
+
+## Week of 4/22
+
+...

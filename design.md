@@ -1,6 +1,34 @@
 # Design
+
 ## Overview
+This project aims to provide an end-to-end solution for crash and crime scene analysis. With 
+law-enforcement in mind, we're working with Delta V Innovations to provide scene recreation, storage of 
+captured data, and information sharing amongst users. Ultimately, the project should allow customers to 
+collect field data from crash/crime scenes, such as images, weather data, location data (from Google 
+Earth), etc. via a mobile application. This data will be uploaded to a database, one that also contains a 
+wealth of reference materials, which can be accessed by other mobile app users or from the desktop 
+application. Within the desktop application, the data can be used to reconstruct the scene with the data 
+from the database using Computer-Aided Design (CAD) tools, and finally everything is bundled into a report 
+on the incident. Extended functionality such as meta-analysis of incidents (i.e. "A disproportionate 
+number of accidents occur at this intersection in the rain at night") and scene recreation viewable in 
+Augmented Reality (AR) is planned for the future.
+
+<br>
+
+Our team (1 of 3) is specifically working on the desktop application. Our main tasks are creating a 
+user-friendly, intuitive Graphical User Interface (GUI), connecting to the database to begin sending and 
+retrieving data, and beginning to implement the scene recreation tools.
+
+
 ## Environment
+The desktop application must run on Windows and MacOS. To handle this, we have decided to use 
+[QT](https://www.qt.io "QT site homepage"), which is (among other things) a cross-platform GUI framework. 
+The customer will continue with QT for free under an LGPL license, which imposes only trivial 
+restrictions.
+
+Our application must interact with the database team's database, which they are hosting via [Amazon Web Services (AWS)](https://aws.amazon.com "AWS site homepage") in [MySQL](https://www.mysql.com "MySQL site homepage").
+
+
 ## Module Description and Flow
 Each tab will have its own class. Each button will have a method associated with it. 
 
