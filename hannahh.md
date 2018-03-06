@@ -16,3 +16,7 @@ myself with QT. I also spent time working on an unrelated assignment for the cla
 ## Week of 2/19 
 Not much going on this week as I had to do a few other things for other classes. I did get the tab bar for the GUI done. No team meetings this week due to conflicting schedules. Planned a meeting with Mike for Monday and scheduled meetings for next week. 
 <br><br>
+
+## Week of 2/26
+We met with Mike on Monday and came to the conclusion that we need to have better communication between the database and mobile teams. We also discussed how we should proceed going forward. We met with him again the following night and got a clearer picture of what he wanted the GUI itself to look like. We also outlined out next steps in greater detail. Shelby and Tricia couldn't make it to the Tuesday meeting so I met with them on Wednesday to fill them in on what happened. We met with Presentation U on Thursday to practice our presentation and do a couple of dry runs. Throughout the week, I worked on my portion of the design which was the user scenarios. Goals for next week are to meet with the database team and get connected and begin implementing a class so that we can connect and make calls to the database. 
+<br><br>
