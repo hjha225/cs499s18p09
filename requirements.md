@@ -25,20 +25,21 @@
  
 5. Allow a user to login without typing password on personal laptop and require login with password on a public computer
    - Same username and password as used for the mobile application
-6. Create mouse controls so that the user may move around imported data
-7. Incorporate existing code for importing line work from total stations and point clouds
-8. Polyline and line work creation
-9. Ensure that opening a new job imports all data from the mobile application. 
+   
+6. Ensure that opening a new job imports all data from the mobile application. 
     The data should be visible in editable fields
       - If a job is currently being edited don’t allow other users to open that job
 
-10. Be able to save design work from save button
-11. Be able to print design work from print button
-12. Be able to save data to the server/database and have connection such that a user can reopen the job on the mobile application 
+7. Be able to save design work from save button
+8. Be able to print design work from print button
+9. Be able to save data to the server/database and have connection such that a user can reopen the job on the mobile application 
     and see any edited data fields.
    
 ### Stretchable goals
    1. Also have a 2D Workspace
+   2. Create mouse controls so that the user may move around imported data
+   3. Incorporate existing code for importing line work from total stations and point clouds
+   4. Polyline and line work creation
 ## Effort and Size Estimation
 We estimate that we will write around 1000 lines of code. 
 ## Platforms, Tools and Languages
