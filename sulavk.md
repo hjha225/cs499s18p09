@@ -11,4 +11,7 @@ Over the weeekend we made and reworked the project website. Monday we had a meet
 This week was a relatively slow week. We spent it designing a rough Qt design for Mike to see and approve. We all had assigned parts of the framework to work on. Due to major compatibility issues it seems that my Mac is having trouble running the Qt program. I went through a lot of tutorials to get familiar with the framework but was unable to have any saved work on my computer.
 
 ## Week of 2/26
-This week we looked at finishing presentation and design details coming up. I also worked on the log on screen for our desktop application. OUr team had a meeting with mike on how we wanted to structure the icons and tools on the desktop application and we enedd with a good diea of the style of the overall product.
+This week we looked at finishing presentation and design details coming up. I also worked on the log on screen for our desktop application. Our team had a meeting with mike on how we wanted to structure the icons and tools on the desktop application and we enedd with a good diea of the style of the overall product.
+
+## Week of 3/5
+We worked on the presentation in Willy T library's presentation U and presented in class. We also had a general meeting with Mike about a project update. 
