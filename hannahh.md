@@ -20,3 +20,6 @@ Not much going on this week as I had to do a few other things for other classes.
 ## Week of 2/26
 We met with Mike on Monday and came to the conclusion that we need to have better communication between the database and mobile teams. We also discussed how we should proceed going forward. We met with him again the following night and got a clearer picture of what he wanted the GUI itself to look like. We also outlined out next steps in greater detail. Shelby and Tricia couldn't make it to the Tuesday meeting so I met with them on Wednesday to fill them in on what happened. We met with Presentation U on Thursday to practice our presentation and do a couple of dry runs. Throughout the week, I worked on my portion of the design which was the user scenarios. Goals for next week are to meet with the database team and get connected and begin implementing a class so that we can connect and make calls to the database. 
 <br><br>
+
+## Week of 3/5
+I began implementing the database class that will allow us to connect but ran into some troubles and had to wait until after Spring Break in order to figure out the best solution. I was also going to add more functionality but again this needed to be discussed with my team after the break. 
