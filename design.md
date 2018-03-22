@@ -22,7 +22,7 @@ retrieving data, and beginning to implement the scene recreation tools.
 The desktop application must run on Windows and MacOS. To handle this, we have decided to use 
 [QT](https://www.qt.io "QT site homepage"), which is (among other things) a cross-platform GUI framework. 
 The customer will continue with QT for free under an LGPL license, which imposes only trivial 
-restrictions.
+restrictions. It also uses the MYSQL C++ Connector version 1.1.9, Boost version 1.66.0, and C++11
 
 Our application must interact with the database team's database, which they are hosting via [Amazon Web Services (AWS)](https://aws.amazon.com "AWS site homepage") in [MySQL](https://www.mysql.com "MySQL site homepage").
 
