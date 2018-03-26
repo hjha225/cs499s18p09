@@ -23,3 +23,8 @@ We met with Mike on Monday and came to the conclusion that we need to have bette
 
 ## Week of 3/5
 I began implementing the database class that will allow us to connect but ran into some troubles and had to wait until after Spring Break in order to figure out the best solution. I was also going to add more functionality but again this needed to be discussed with my team after the break. 
+
+## Week of 3/12  - Spring Break 
+
+## Week of 3/19
+Talked with Sulav on Monday in order to work out a few of the remaining issues that lurked with the project. Met with Mike on Wednesday to discuss what needs to be done by the end of the semester and set a date of having all code done by April 2nd (Same day that testing plan is due). Decided that I will be creating a new file type for the app itself and work on locally saving some of the data pulled from the database. Met again on Friday with Mike and the databases team at their request, discussed the final presentation briefly and discussed how the database was set up a bit so that we are able to complete our portion of the project. 
