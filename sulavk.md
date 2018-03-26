@@ -15,3 +15,6 @@ This week we looked at finishing presentation and design details coming up. I al
 
 ## Week of 3/5
 We worked on the presentation in Willy T library's presentation U and presented in class. We also had a general meeting with Mike about a project update. 
+
+## Week of 3/19
+This week I finished up the individual login screen for the program connected it to the main desktop app that the team is working on as a whole. Also made a base class to establish connection from the AWS database servers to the desktop app. Hve tested both connection and data pull functions but still working on the data pushing function.
