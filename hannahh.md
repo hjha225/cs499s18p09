@@ -28,3 +28,6 @@ I began implementing the database class that will allow us to connect but ran in
 
 ## Week of 3/19
 Talked with Sulav on Monday in order to work out a few of the remaining issues that lurked with the project. Met with Mike on Wednesday to discuss what needs to be done by the end of the semester and set a date of having all code done by April 2nd (Same day that testing plan is due). Decided that I will be creating a new file type for the app itself and work on locally saving some of the data pulled from the database. Met again on Friday with Mike and the databases team at their request, discussed the final presentation briefly and discussed how the database was set up a bit so that we are able to complete our portion of the project. 
+
+## Week of  3/26 
+Wrote up the file containing the tests that I will be running to test my program and also the classes that would help organize that data pulled in from the data base and a basic save locally function. Spent lots of time debugging all of this code. Met with Mike and got him caught up on where we were. Also personally met with him on Friday to show him what our GUI looked like and let him mess with it a bit to be able to give us good feedback on it. 
