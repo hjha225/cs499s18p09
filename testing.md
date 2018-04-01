@@ -222,7 +222,8 @@
       + Exit Button -- Displays Exit Left Panel <br>
     + Left Panel Fill Page
       + Color Button -- Displays open a full color pallet that a user can drag and drop color from the pallet into a closed box which will fill with this color<br>
-      + Hatch Button -- Displays open a full texture pallet that a user can drag and drop texture from the pallet into a closed box which will fill with this texture<br><br>
+      + Hatch Button -- Displays open a full texture pallet that a user can drag and drop texture from the pallet into a closed box which will fill with this texture<br>
+    + <br>
     2. Test all right tabs and make sure they display the correct information <br>
     + General Info Tab -- WORKS
     + Vehicle Info Tab -- WORKS
