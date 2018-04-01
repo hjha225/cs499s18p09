@@ -15,7 +15,7 @@
     -- Output override -- Works<br>
   - IO Class: <br>
     -- Output a job to a file -- Broken but fixable by end of year <br>
-  - Test Plan for Front End: <br>
+  - Front End: <br>
     1.	Test all buttons and non-editable (read-only) boxes and make sure they have tool tips that display <br>
     + Quick Access Bar<br>
       + AutoSave Button -- Displays Auto Save<br>
@@ -91,8 +91,99 @@
       + Next Button -- Displays Next Occupant <br>
       + Previous Button -- Displays Previous Occupant<br>
       + Exit Button -- Displays Exit Occupant Info<br>
-    
+    + Upper Left Panel <br>
+      + Cut Button -- Displays Cut <br>
+      + Copy Button -- Displays Copy <br>
+      + Paste Button -- Displays Paste <br>
+      + Snaps Group Box -- Displays Snaps <br>
+        + N Button -- Displays Near <br>
+        + E Button -- Displays East <br>
+        + M Button -- Displays Middle of a Line <br>
+        + C Button -- Displays Center of a Circle <br>
+        + I Button -- Displays Intersection <br>
+        + T Button -- Displays Tangent <br>
+        + J Button -- Displays Jump <br>
+        + G Button -- Displays Grid <br>
+        + A Button -- Displays Angle <br>
+      + Grid On/Off Toggle -- Displays Turn Grid On <br>
+      + Spacing Box -- Displays Grid Spacing <br>
+      + Layers Button -- Displays Layers <br>
+    + Left Panel Point Page
+      + Feet/Metric Drop Down -- Displays Feet or Metric Measurements <br>
+      + X - Coordinate Box -- Displays X-Coordinate of Point <br>
+      + Y - Coordinate Box -- Displays Y-Coordinate of Point <br>
+      + Elevation Box -- Displays Elevation of Point <br>
+      + Point to Symbol Drop Down -- Displays Point to Symbol <br>
+      + Exit Button -- Displays Exit Left Panel <br>
+    + Left Panel Line Page <br>
+      + Feet/Metric Drop Down -- Displays Feet or Metric Measurements <br>
+      + Length Box -- Displasy Length of Line <br>
+      + Width Box -- Displays Width of Line <br>
+      + Color Box -- Displays Color of Line <br>
+      + Starting Elevation Box -- Displays Starting Elevation of Line <br>
+      + Ending Elevation Box -- Displays Ending Elevation of Line <br>
+      + Roadway Lines Drop Down -- Displays Roadway Lines <br>
+      + Symbols Drop Down -- Displays Symbols <br>
+      + Symbol Spacing -- Displays Spacing between Symbols <br>
+      + Exit Button -- Displays Exit Left Panel <br>
+    + Left Panel Polyline Page
+      + Feet/Metric Drop Down -- Displays Feet or Metric Measurements <br>
+      + Length Box -- Displasy Length of Polyline <br>
+      + Width Box -- Displays Width of Polyline <br>
+      + Color Box -- Displays Color of Polyline <br>
+      + Starting Elevation Box -- Displays Starting Elevation of Polyline <br>
+      + Ending Elevation Box -- Displays Ending Elevation of Polyline <br>
+      + Roadway Lines Drop Down -- Displays Roadway Lines <br>
+      + Symbols Drop Down -- Displays Symbols <br>
+      + Symbol Spacing -- Displays Spacing between Symbols <br>
+      + Polyline Button -- Displays Polyline (Type of Polyline)<br>
+      + Perpendicular Polyline Button -- Displays Perpendicular Polyline (Type of Polyline)<br>
+      + Exit Button -- Displays Exit Left Panel <br>
+    + Left Panel Curve Page
+      + Feet/Metric Drop Down -- Displays Feet or Metric Measurements <br>
+      + Length Box -- Displasy Length of Curve <br>
+      + Width Box -- Displays Width of Curve <br>
+      + Color Box -- Displays Color of Curve <br>
+      + Starting Elevation Box -- Displays Starting Elevation of Curve <br>
+      + Ending Elevation Box -- Displays Ending Elevation of Curve <br>
+      + Roadway Lines Drop Down -- Displays Roadway Lines <br>
+      + Symbols Drop Down -- Displays Symbols <br>
+      + Symbol Spacing -- Displays Spacing between Symbols <br>
+      + Fitted Button -- Displays Fitted (Type of Curve)<br>
+      + Spline Button -- Spline (Type of Curve)<br>
+      + Exit Button -- Displays Exit Left Panel <br>
+    + Left Panel Arc Page
+      + Feet/Metric Drop Down -- Displays Feet or Metric Measurements <br>
+      + Length Box -- Displasy Length of Arc <br>
+      + Width Box -- Displays Width of Arc <br>
+      + Color Box -- Displays Color of Arc <br>
+      + Starting Elevation Box -- Displays Starting Elevation of Arc <br>
+      + Ending Elevation Box -- Displays Ending Elevation of Arc <br>
+      + Roadway Lines Drop Down -- Displays Roadway Lines <br>
+      + 3-point Arc Button -- Displays 3-point Arc (Type of Arc)<br>
+        + X Box -- Displays X-Coordinate for 3-point arc <br>
+        + Y Box -- Displays Y-Coordinate for 3-point arc <br>
+        + Radius Box -- Displays Radius of 3-point arc <br>
+      + 2-points ang Button -- Displays 2-points and angle arc (Type of Arc)<br>
+        + X Box -- Displays X-Coordinate for 2-points and angle arc<br>
+        + Y Box -- Displays Y-Coordinate for 2-points and angle arc<br>
+        + Radius Box -- Displays Radius of 2-points and angle arc <br>
+      + 2-points ctr Button -- Displays 2-points and center arc (Type of Arc) <br>
+        + X Box -- Displays X-Coordinate for 2-points and center arc<br>
+        + Y Box -- Displays Y-Coordinate for 2-points and center arc<br>
+        + Radius Box -- Displays Radius of 2-points and center arc<br>
+      + Exit Button -- Displays Exit Left Panel <br>
+    + Left Panel Circle Page
+      + Feet/Metric Drop Down -- Displays Feet or Metric Measurements <br>
+      + Length Box -- Displasy Length of Circle <br>
+      + Width Box -- Displays Width of Circle <br>
+      + Color Box -- Displays Color of Circle <br>
+      + ctr and side Button -- Displays Center Point and Side (Type of Circle)<br>
+      + 
 2.	Test all right tabs and make sure they display the correct information <br>
+  + General Info Tab -- WORKS
+  + Vehicle Info Tab -- WORKS
+  + Occupant Infor Tab -- WORKS
 3.	Test all buttons on the draw tab and make sure they display the correct left panel <br>
 4.	Test all buttons on the file tab <br>
 5.	Test all buttons on the edit tab <br>
