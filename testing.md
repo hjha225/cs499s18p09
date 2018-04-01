@@ -96,15 +96,15 @@
       + Copy Button -- Displays Copy <br>
       + Paste Button -- Displays Paste <br>
       + Snaps Group Box -- Displays Snaps <br>
-        + N Button -- Displays Near <br>
-        + E Button -- Displays East <br>
-        + M Button -- Displays Middle of a Line <br>
-        + C Button -- Displays Center of a Circle <br>
-        + I Button -- Displays Intersection <br>
-        + T Button -- Displays Tangent <br>
-        + J Button -- Displays Jump <br>
-        + G Button -- Displays Grid <br>
-        + A Button -- Displays Angle <br>
+      + -- N Button -- Displays Near <br>
+      + -- E Button -- Displays East <br>
+      + -- M Button -- Displays Middle of a Line <br>
+      + -- C Button -- Displays Center of a Circle <br>
+      + -- I Button -- Displays Intersection <br>
+      + -- T Button -- Displays Tangent <br>
+      + -- J Button -- Displays Jump <br>
+      + -- G Button -- Displays Grid <br>
+      + -- A Button -- Displays Angle <br>
       + Grid On/Off Toggle -- Displays Turn Grid On <br>
       + Spacing Box -- Displays Grid Spacing <br>
       + Layers Button -- Displays Layers <br>
@@ -161,17 +161,17 @@
       + Ending Elevation Box -- Displays Ending Elevation of Arc <br>
       + Roadway Lines Drop Down -- Displays Roadway Lines <br>
       + 3-point Arc Button -- Displays 3-point Arc (Type of Arc)<br>
-        + X Box -- Displays X-Coordinate for 3-point arc <br>
-        + Y Box -- Displays Y-Coordinate for 3-point arc <br>
-        + Radius Box -- Displays Radius of 3-point arc <br>
+      + --  X Box -- Displays X-Coordinate for 3-point arc <br>
+      + -- Y Box -- Displays Y-Coordinate for 3-point arc <br>
+      + -- Radius Box -- Displays Radius of 3-point arc <br>
       + 2-points ang Button -- Displays 2-points and angle arc (Type of Arc)<br>
-        + X Box -- Displays X-Coordinate for 2-points and angle arc<br>
-        + Y Box -- Displays Y-Coordinate for 2-points and angle arc<br>
-        + Radius Box -- Displays Radius of 2-points and angle arc <br>
+      + -- X Box -- Displays X-Coordinate for 2-points and angle arc<br>
+      + -- Y Box -- Displays Y-Coordinate for 2-points and angle arc<br>
+      + -- Radius Box -- Displays Radius of 2-points and angle arc <br>
       + 2-points ctr Button -- Displays 2-points and center arc (Type of Arc) <br>
-        + X Box -- Displays X-Coordinate for 2-points and center arc<br>
-        + Y Box -- Displays Y-Coordinate for 2-points and center arc<br>
-        + Radius Box -- Displays Radius of 2-points and center arc<br>
+      + -- X Box -- Displays X-Coordinate for 2-points and center arc<br>
+      + -- Y Box -- Displays Y-Coordinate for 2-points and center arc<br>
+      + -- Radius Box -- Displays Radius of 2-points and center arc<br>
       + Exit Button -- Displays Exit Left Panel <br>
     + Left Panel Circle Page
       + Feet/Metric Drop Down -- Displays Feet or Metric Measurements <br>
@@ -179,45 +179,45 @@
       + Width Box -- Displays Width of Circle <br>
       + Color Box -- Displays Color of Circle <br>
       + ctr and side Button -- Displays Center Point and Side Circle (Type of Circle)<br>
-        + X Box -- Displays X-Coordinate for Center Point and Side Circle<br>
-        + Y Box -- Displays Y-Coordinate for Center Point and Side Circle<br>
-        + Radius Box -- Displays Radius of Center Point and Side Circle<br>
+      + -- X Box -- Displays X-Coordinate for Center Point and Side Circle<br>
+      + -- Y Box -- Displays Y-Coordinate for Center Point and Side Circle<br>
+      + -- Radius Box -- Displays Radius of Center Point and Side Circle<br>
       + 2-sides Button -- Displays 2-Sides Circle (Type of Circle)<br>
-        + X Box -- Displays X-Coordinate for 2-Sides Circle<br>
-        + Y Box -- Displays Y-Coordinate for 2-Sides Circle<br>
-        + Radius Box -- Displays Radius of 2-Sides Circle<br>
+      + --X Box -- Displays X-Coordinate for 2-Sides Circle<br>
+      + -- Y Box -- Displays Y-Coordinate for 2-Sides Circle<br>
+      + -- Radius Box -- Displays Radius of 2-Sides Circle<br>
       + 3-point Button--- Displays 3-Point Circle (Type of Circle)<br>
-        + X Box -- Displays X-Coordinate for 3-Point Circle<br>
-        + Y Box -- Displays Y-Coordinate for 3-Point Circle<br>
-        + Radius Box -- Displays Radius of 3-Point Circle<br>
+      + -- X Box -- Displays X-Coordinate for 3-Point Circle<br>
+      + -- Y Box -- Displays Y-Coordinate for 3-Point Circle<br>
+      + -- Radius Box -- Displays Radius of 3-Point Circle<br>
       + ctr and radius Button -- Displays Center Point and Radius Circle (Type of Circle)<br>
-        + X Box -- Displays X-Coordinate for Center Point and Radius Circle<br>
-        + Y Box -- Displays Y-Coordinate for Center Point and Radius Circle<br>
-        + Radius Box -- Displays Radius of Center Point and Radius Circle<br>
+      + -- X Box -- Displays X-Coordinate for Center Point and Radius Circle<br>
+      + -- Y Box -- Displays Y-Coordinate for Center Point and Radius Circle<br>
+      + -- Radius Box -- Displays Radius of Center Point and Radius Circle<br>
       + 2-tangent Button -- Displays 2-Tangent Line Circle (Type of Circle)<br>
-        + X Box -- Displays X-Coordinate for 2-Tangent Line Circle<br>
-        + Y Box -- Displays Y-Coordinate for  2-Tangent Line Circle<br>
-        + Radius Box -- Displays Radius of  2-Tangent Line Circle<br>
+      + -- X Box -- Displays X-Coordinate for 2-Tangent Line Circle<br>
+      + -- Y Box -- Displays Y-Coordinate for  2-Tangent Line Circle<br>
+      + -- Radius Box -- Displays Radius of  2-Tangent Line Circle<br>
       + Ellipse rect Button -- Displays Ellipse Rectangle Circle (Type of Circle)
-        + X Box -- Displays X-Coordinate for Ellipse Rectangle Circle<br>
-        + Y Box -- Displays Y-Coordinate for  Ellipse Rectangle Circle<br>
-        + Radius Box -- Displays Radius of  Ellipse Rectangle Circle<br>
+      + -- X Box -- Displays X-Coordinate for Ellipse Rectangle Circle<br>
+      + -- Y Box -- Displays Y-Coordinate for  Ellipse Rectangle Circle<br>
+      + -- Radius Box -- Displays Radius of  Ellipse Rectangle Circle<br>
       + Ellipse axis Button -- Displays Ellipse Axis Circle (Type of Circle)<br>
-        + X Box -- Displays X-Coordinate for Ellipse Axis Circle<br>
-        + Y Box -- Displays Y-Coordinate for  Ellipse Axis Circle<br>
-        + Radius Box -- Displays Radius of  Ellipse Axis Circle<br>
+      + -- X Box -- Displays X-Coordinate for Ellipse Axis Circle<br>
+      + -- Y Box -- Displays Y-Coordinate for  Ellipse Axis Circle<br>
+      + -- Radius Box -- Displays Radius of  Ellipse Axis Circle<br>
       + Exit Button -- Displays Exit Left Panel <br>
     + Left Panel Rectangle Page
       + Feet/Metric Drop Down -- Displays Feet or Metric Measurements <br>
       + Rectangle Button -- Displays Rectangle (Type of Rectangle) <br>
-        + Perimeter Box -- Displays Perimeter of Rectangle<br>
-        + Area Box -- Displays Area of Rectangle<br>
+      + -- Perimeter Box -- Displays Perimeter of Rectangle<br>
+      + -- Area Box -- Displays Area of Rectangle<br>
       + Irr Poly Button -- Displays Irregular Polygon (Type of Rectangle)<br>
-        + Perimeter Box -- Displays Perimeter of Irregular Polygon<br>
-        + Area Box -- Displays Area of Irregular Polygon<br>
+      + -- Perimeter Box -- Displays Perimeter of Irregular Polygon<br>
+      + -- Area Box -- Displays Area of Irregular Polygon<br>
       + Irr Cloud Button -- Displays Irregular Cloud (Type of Rectangle) <br>
-        + Perimeter Box -- Displays Perimeter of Irregular Cloud<br>
-        + Area Box -- Displays Area of Irregular Cloud<br>
+      + -- Perimeter Box -- Displays Perimeter of Irregular Cloud<br>
+      + -- Area Box -- Displays Area of Irregular Cloud<br>
       + Width of Lines Box -- Displays Width of Lines <br>
       + Exit Button -- Displays Exit Left Panel <br>
     + Left Panel Fill Page
