@@ -34,6 +34,32 @@
       + Open Button -- Displays Open a previously saved job <br>
       + Create New Job Button -- Displays Create a New Job <br>
       + Exit Button -- Displays Exit Current Job <br>
+    + Top Ribbon Edit Tab<br>
+      + Undo Button -- Displays Undo <br>
+      + Redo Button -- Displays Undo <br>
+      + Cut Button -- Displays Cut <br>
+      + Copy Button -- Displays Copy <br>
+      + Paste Button -- Displays Paste <br>
+      + Select Button -- Displays Select <br>
+    + Top Ribbon Draw Tab<br>
+      + Point Button -- Displays Draw Points (advanced options on left panel)<br>
+      + Line Button -- Displays Draw Lines (advanced options on left panel)<br>
+      + Polyline Button -- Displays Draw Polylines (advanced options on left panel) <br>
+      + Curve Button -- Displays Draw Curves (advanced options on left panel) <br>
+      + Arc Button -- Displays Draw Arcs (advanced options on left panel) <br>
+      + Circle Button -- Displays Draw Circles (advanced options on left panel) <br>
+      + Rectangle Button -- Displays Draw Rectangles (advanced options on left panel)<br>
+      + Photo Button -- Displays Display Photos <br>
+      + Fill Button -- Displays Fill (advanced options on left panel) <br>
+    + Right Panel Tabs<br>
+      + General Info Tab -- Displays Display General Info <br>
+      + Vehicle Info Tab -- Displays Display Vehicle Infor <br>
+      + Occupant Info Tab -- Dipslays Display Occupant Info <br>
+      + Reference Mats Tab -- Displays Display Reference Materials <br>
+    + General Info Page<br>
+    + Vehicle Info Pages <br>
+    + Occupant Info Pages <br>
+    
      
      
 2.	Test all right tabs and make sure they display the correct information <br>
