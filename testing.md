@@ -4,17 +4,17 @@
   - Job Class: <br>
     -- Create using constructor and fill in with additional functions -- Works<br>
     -- Create using contructor and filling in with constructor -- Works<br>
-    -- Output override --Works <br>
+    -- Output override --Works <br><br>
   - Occupant Class:<br>
     -- Create using constructor and fill in with additional functions -- Works<br>
     -- Create using contructor and filling in with constructor --Works <br>
-    -- Output override -- Works<br>
+    -- Output override -- Works<br><br>
   - Vehicle Class: <br>
     -- Create using constructor and fill in with additional functions --Works <br>
     -- Create using contructor and filling in with constructor -- Works <br>
-    -- Output override -- Works<br>
+    -- Output override -- Works<br><br>
   - IO Class: <br>
-    -- Output a job to a file -- Broken but fixable by end of year <br>
+    -- Output a job to a file -- Broken but fixable by end of year <br><br>
   - Front End: <br>
     1.	Test all buttons and non-editable (read-only) boxes and make sure they have tool tips that display <br>
     + Quick Access Bar<br>
@@ -163,15 +163,15 @@
       + 3-point Arc Button -- Displays 3-point Arc (Type of Arc)<br>
       + --  X Box -- Displays X-Coordinate for 3-point arc <br>
       + -- Y Box -- Displays Y-Coordinate for 3-point arc <br>
-      + -- Radius Box -- Displays Radius of 3-point arc <br>
+      + -- Radius Box -- Displays Radius of 3-point arc <br><br>
       + 2-points ang Button -- Displays 2-points and angle arc (Type of Arc)<br>
       + -- X Box -- Displays X-Coordinate for 2-points and angle arc<br>
       + -- Y Box -- Displays Y-Coordinate for 2-points and angle arc<br>
-      + -- Radius Box -- Displays Radius of 2-points and angle arc <br>
+      + -- Radius Box -- Displays Radius of 2-points and angle arc <br><br>
       + 2-points ctr Button -- Displays 2-points and center arc (Type of Arc) <br>
       + -- X Box -- Displays X-Coordinate for 2-points and center arc<br>
       + -- Y Box -- Displays Y-Coordinate for 2-points and center arc<br>
-      + -- Radius Box -- Displays Radius of 2-points and center arc<br>
+      + -- Radius Box -- Displays Radius of 2-points and center arc<br><br>
       + Exit Button -- Displays Exit Left Panel <br>
     + Left Panel Circle Page
       + Feet/Metric Drop Down -- Displays Feet or Metric Measurements <br>
@@ -181,43 +181,43 @@
       + ctr and side Button -- Displays Center Point and Side Circle (Type of Circle)<br>
       + -- X Box -- Displays X-Coordinate for Center Point and Side Circle<br>
       + -- Y Box -- Displays Y-Coordinate for Center Point and Side Circle<br>
-      + -- Radius Box -- Displays Radius of Center Point and Side Circle<br>
+      + -- Radius Box -- Displays Radius of Center Point and Side Circle<br><br>
       + 2-sides Button -- Displays 2-Sides Circle (Type of Circle)<br>
       + --X Box -- Displays X-Coordinate for 2-Sides Circle<br>
       + -- Y Box -- Displays Y-Coordinate for 2-Sides Circle<br>
-      + -- Radius Box -- Displays Radius of 2-Sides Circle<br>
+      + -- Radius Box -- Displays Radius of 2-Sides Circle<br><br>
       + 3-point Button--- Displays 3-Point Circle (Type of Circle)<br>
       + -- X Box -- Displays X-Coordinate for 3-Point Circle<br>
       + -- Y Box -- Displays Y-Coordinate for 3-Point Circle<br>
-      + -- Radius Box -- Displays Radius of 3-Point Circle<br>
+      + -- Radius Box -- Displays Radius of 3-Point Circle<br><br>
       + ctr and radius Button -- Displays Center Point and Radius Circle (Type of Circle)<br>
       + -- X Box -- Displays X-Coordinate for Center Point and Radius Circle<br>
       + -- Y Box -- Displays Y-Coordinate for Center Point and Radius Circle<br>
-      + -- Radius Box -- Displays Radius of Center Point and Radius Circle<br>
+      + -- Radius Box -- Displays Radius of Center Point and Radius Circle<br><br>
       + 2-tangent Button -- Displays 2-Tangent Line Circle (Type of Circle)<br>
       + -- X Box -- Displays X-Coordinate for 2-Tangent Line Circle<br>
       + -- Y Box -- Displays Y-Coordinate for  2-Tangent Line Circle<br>
-      + -- Radius Box -- Displays Radius of  2-Tangent Line Circle<br>
+      + -- Radius Box -- Displays Radius of  2-Tangent Line Circle<br><br>
       + Ellipse rect Button -- Displays Ellipse Rectangle Circle (Type of Circle)
       + -- X Box -- Displays X-Coordinate for Ellipse Rectangle Circle<br>
       + -- Y Box -- Displays Y-Coordinate for  Ellipse Rectangle Circle<br>
-      + -- Radius Box -- Displays Radius of  Ellipse Rectangle Circle<br>
+      + -- Radius Box -- Displays Radius of  Ellipse Rectangle Circle<br><br>
       + Ellipse axis Button -- Displays Ellipse Axis Circle (Type of Circle)<br>
       + -- X Box -- Displays X-Coordinate for Ellipse Axis Circle<br>
       + -- Y Box -- Displays Y-Coordinate for  Ellipse Axis Circle<br>
-      + -- Radius Box -- Displays Radius of  Ellipse Axis Circle<br>
+      + -- Radius Box -- Displays Radius of  Ellipse Axis Circle<br><br>
       + Exit Button -- Displays Exit Left Panel <br>
     + Left Panel Rectangle Page
       + Feet/Metric Drop Down -- Displays Feet or Metric Measurements <br>
       + Rectangle Button -- Displays Rectangle (Type of Rectangle) <br>
       + -- Perimeter Box -- Displays Perimeter of Rectangle<br>
-      + -- Area Box -- Displays Area of Rectangle<br>
+      + -- Area Box -- Displays Area of Rectangle<br><br>
       + Irr Poly Button -- Displays Irregular Polygon (Type of Rectangle)<br>
       + -- Perimeter Box -- Displays Perimeter of Irregular Polygon<br>
-      + -- Area Box -- Displays Area of Irregular Polygon<br>
+      + -- Area Box -- Displays Area of Irregular Polygon<br><br>
       + Irr Cloud Button -- Displays Irregular Cloud (Type of Rectangle) <br>
       + -- Perimeter Box -- Displays Perimeter of Irregular Cloud<br>
-      + -- Area Box -- Displays Area of Irregular Cloud<br>
+      + -- Area Box -- Displays Area of Irregular Cloud<br><br>
       + Width of Lines Box -- Displays Width of Lines <br>
       + Exit Button -- Displays Exit Left Panel <br>
     + Left Panel Fill Page
