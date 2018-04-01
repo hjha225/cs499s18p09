@@ -228,11 +228,26 @@
   + Vehicle Info Tab -- WORKS
   + Occupant Infor Tab -- WORKS
 3.	Test all buttons on the draw tab and make sure they display the correct left panel <br>
+  + Point Button -- WORKS
+  + Line Button -- WORKS
+  + Polyline Button -- WORKS
+  + Curve Button -- WORKS
+  + Arc Button -- WORKS
+  + Circle Button -- WORKS
+  + Rectangle Button -- WORKS
+  + Fill Button -- WORKS
 4.	Test all buttons on the file tab <br>
 5.	Test all buttons on the edit tab <br>
+  + These buttons do nothing as expected
 6.	Test all buttons in the quick access bar <br>
-7.	Test all buttons on the left panel <br>
-8.	Test all buttons displayed after selecting from a tab on the right panel <br>
+  + These buttons do nothing as expected
+7.	Test all buttons/ drop downs on the left panel <br>
+  + All exit buttons make the part of the left panel associated with a button disappear as expected
+  + Other buttons do nothing as expected
+8.	Test all buttons/drop downs displayed after selecting from a tab on the right panel <br>
+  + The first next button advances to the second page of vehicle info/occupant info as expected (More pages will be implemented in the future for the other next button to have functionality)
+  + The previous button on the second page goes to the first page of vehicle info/occupant info as expected
+  + All exit buttons go back to the drawing area as expected
 
 
 ## Function Tests: 
