@@ -16,7 +16,7 @@
   - IO Class: <br>
     -- Output a job to a file -- Broken but fixable by end of year <br>
   - Test Plan for Front End: <br>
-    1.	Test all buttons and non-editable boxes and make sure they have tool tips that display <br>
+    1.	Test all buttons and non-editable (read-only) boxes and make sure they have tool tips that display <br>
     + Quick Access Bar<br>
       + AutoSave Button -- Displays Auto Save<br>
       + Save Button -- Displays Save to Desktop<br>
@@ -57,11 +57,41 @@
       + Occupant Info Tab -- Dipslays Display Occupant Info <br>
       + Reference Mats Tab -- Displays Display Reference Materials <br>
     + General Info Page<br>
+      + Location of Crash Box -- Displays Location of the Crash<br>
+      + Date/Time Box -- Displays Date and Time of the Crash in EST <br>
+      + Temp Box -- Displays Temperature Outside at the time of the crash in F <br>
+      + Visibility Box -- Displays Visibility Outside at the time of the crash <br>
+      + Weather Box -- Displays Weather Outside at the time of the crash <br>
+      + Lighting Box -- Displays Lighting at the location of the crash <br>
+      + Roadway Surface Box -- Displays Type of Roadway Surface at the location of the crash <br>
+      + Speed Limit Box -- Displays Speed Limit at the location of the crash <br>
+      + Drag Factor Box -- Displays Estimated Drag Factor <br>
+      + Exit Button -- Displays Exit General Info <br>
     + Vehicle Info Pages <br>
+      + Year Box -- Displays Year of Vehicle <br>
+      + Make Box -- Displays Make of Vehicle <br>
+      + Model Box -- Displays Model of Vehicle <br>
+      + License Plate, State, Expiration Date Box -- Displays License Plate Number, State it was issued in, and Expiration Date<br>
+      + Color Box -- Displays Color of Vehicle <br>
+      + VIN Box -- Displays Vehicle VIN Number <br>
+      + Specs Box -- Displays Specs on Vehicle<br>
+      + Number in Crash Box -- Displays Number Vehicle assigned in reference to the crash <br>
+      + Next Button -- Display Next Vehicle Info<br>
+      + Previous Button -- Display Previous Vehicle Info <br>
+      + Exit Button -- Displays Exit Vehicle Info <br>
     + Occupant Info Pages <br>
+      + Name Box -- Displays Name <br>
+      + Address Box -- Displays Address of Person<br>
+      + Phone Number Box -- Displays Phone Number <br>
+      + Birthdate Box -- Displays Birthdate of Person <br>
+      + Vehicle Number Box -- Displays Vehicle Number this person is associated with<br>
+      + Position in Car -- Displays Position in Car <br>
+      + Impairment -- Displays Impairment at Time of Accident<br>
+      + Point of View Box -- Displays Point of View if the person is a witness<br>
+      + Next Button -- Displays Next Occupant <br>
+      + Previous Button -- Displays Previous Occupant<br>
+      + Exit Button -- Displays Exit Occupant Info<br>
     
-     
-     
 2.	Test all right tabs and make sure they display the correct information <br>
 3.	Test all buttons on the draw tab and make sure they display the correct left panel <br>
 4.	Test all buttons on the file tab <br>
