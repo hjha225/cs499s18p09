@@ -251,7 +251,9 @@
     + All exit buttons go back to the drawing area as expected
 
 
-## Function Tests: 
+## Integration Tests: 
+  - The login screen connects to the database and then displays the main window
+  - Info pulled from the database can be displayed on the main window in the right panel
 
 ## System Tests: 
   -Run tests from both Windows and Apple Machines
