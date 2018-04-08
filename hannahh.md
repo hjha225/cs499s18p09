@@ -31,3 +31,6 @@ Talked with Sulav on Monday in order to work out a few of the remaining issues t
 
 ## Week of  3/26 
 Wrote up the file containing the tests that I will be running to test my program and also the classes that would help organize that data pulled in from the data base and a basic save locally function. Spent lots of time debugging all of this code. Met with Mike and got him caught up on where we were. Also personally met with him on Friday to show him what our GUI looked like and let him mess with it a bit to be able to give us good feedback on it. 
+
+## Week of 4/1 
+I had one last function to implment this week and then it was time to debug. The majority of this week was spent debugging but it was not all for not as I now have code that is functioning. It's not perfect or pretty but it does what it's supposed to. I also added in some documentation and a README since building my code can be challenging due to the addition of BOOST libraries however I stand by the decision to use BOOST since it makes cross-platform file saving much easier. 
