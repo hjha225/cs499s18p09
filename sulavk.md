@@ -21,3 +21,6 @@ This week I finished up the individual login screen for the program connected it
 
 ## Week of 3/26
 This week was focused on talking with teammates and improving the login and database connection I wrote last week. I made changes to the data structure of the data pulling function. Also worked on merge issues with the overall team project. This weekend was spent starting on test units for the login and database connectors.
+
+## Week of 4/2
+This week we looked at a lot of testing code and fixing bugs int he system we had. We also had a short meeting with Mike with a weekly update. Database connection is almost done and mostly bug free. More testing to be done.
