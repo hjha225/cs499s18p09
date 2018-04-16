@@ -34,3 +34,6 @@ Wrote up the file containing the tests that I will be running to test my program
 
 ## Week of 4/1 
 I had one last function to implment this week and then it was time to debug. The majority of this week was spent debugging but it was not all for not as I now have code that is functioning. It's not perfect or pretty but it does what it's supposed to. I also added in some documentation and a README since building my code can be challenging due to the addition of BOOST libraries however I stand by the decision to use BOOST since it makes cross-platform file saving much easier. 
+
+## Week of 4/9
+I did a few last minute documentation changes as a result of the code review on Monday. We had a quick meeting with Mike on Wednesday to let him know we were on track to finish on time. We also had a meeting of all 3 teams on Thursday in order to plan out our presentation. I also started pulling together stuff for the presentation.
