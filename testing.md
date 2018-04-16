@@ -250,78 +250,78 @@
     + The previous button on the second page goes to the first page of vehicle info/occupant info as expected
     + All exit buttons go back to the drawing area as expected
 
-# Results: 
-Job Class, Tester: Hannah
-  | Test Case                          	| Result 	|
-  |------------------------------------	|--------	|
-  | Constructor + Additional Functions 	| Works  	|
-  | Constructor Only                   	| Works  	|
-  | Output Override                    	| Works  	|
+### Results: 
+Job Class, Tester: Hannah<br>
+  | Test Case                          	| Result 	|<br>
+  |------------------------------------	|--------	|<br>
+  | Constructor + Additional Functions 	| Works  	|<br>
+  | Constructor Only                   	| Works  	|<br>
+  | Output Override                    	| Works  	|<br>
   
-Occupant Class, Tester: Hannah
-  | Test Case                          	| Result 	|
-  |------------------------------------	|--------	|
-  | Constructor + Additional Functions 	| Works  	|
-  | Constructor Only                   	| Works  	|
-  | Output Override                    	| Works  	|
+Occupant Class, Tester: Hannah<br>
+  | Test Case                          	| Result 	|<br>
+  |------------------------------------	|--------	|<br>
+  | Constructor + Additional Functions 	| Works  	|<br>
+  | Constructor Only                   	| Works  	|<br>
+  | Output Override                    	| Works  	|<br>
 
-Job Class, Tester: Hannah
-  | Test Case                          	| Result 	|
-  |------------------------------------	|--------	|
-  | Constructor + Additional Functions 	| Works  	|
-  | Constructor Only                   	| Works  	|
-  | Output Override                    	| Works  	|
+Job Class, Tester: Hannah<br>
+  | Test Case                          	| Result 	|<br>
+  |------------------------------------	|--------	|<br>
+  | Constructor + Additional Functions 	| Works  	|<br>
+  | Constructor Only                   	| Works  	|<br>
+  | Output Override                    	| Works  	|<br>
 
-IO Class, Tester: Hannah
-  | Test Case                          	| Result 	|
-  |------------------------------------	|--------	|
-  | Constructor + Additional Functions 	| Works  	|
-  | Constructor Only                   	| Works  	|
-  | Output Override                    	| Works  	|
-  | Save function for first save       	| Works  	|
-  | Save function for repeat saves     	| Works  	|
+IO Class, Tester: Hannah<br>
+  | Test Case                          	| Result 	|<br>
+  |------------------------------------	|--------	|<br>
+  | Constructor + Additional Functions 	| Works  	|<br>
+  | Constructor Only                   	| Works  	|<br>
+  | Output Override                    	| Works  	|<br>
+  | Save function for first save       	| Works  	|<br>
+  | Save function for repeat saves     	| Works  	|<br>
   
-Testing Right Tabs, Tester: Tricia
-  | Test Case         	| Result 	|
-  |-------------------	|--------	|
-  | General Info Tab  	| Works  	|
-  | Occupant Info Tab 	| Works  	|
-  | Vehicle Info Tab  	| Works  	|
+Testing Right Tabs, Tester: Tricia<br>
+  | Test Case         	| Result 	|<br>
+  |-------------------	|--------	|<br>
+  | General Info Tab  	| Works  	|<br>
+  | Occupant Info Tab 	| Works  	|<br>
+  | Vehicle Info Tab  	| Works  	|<br>
   
-Test Buttons on Draw Tab, Tester: Tricia
-  | Test Case         	| Result 	|
-  |-------------------	|--------	|
-  | Point Button      	| Works  	|
-  | Line Button       	| Works  	|
-  | Polyline Button   	| Works  	|
-  | Curve Button      	| Works  	|
-  | Arc Button        	| Works  	|
-  | Circle Button     	| Works  	|
-  | Rectangle Button  	| Works  	|
-  | Fill Button       	| Works  	|
+Test Buttons on Draw Tab, Tester: Tricia<br>
+  | Test Case         	| Result 	|<br>
+  |-------------------	|--------	|<br>
+  | Point Button      	| Works  	|<br>
+  | Line Button       	| Works  	|<br>
+  | Polyline Button   	| Works  	|<br>
+  | Curve Button      	| Works  	|<br>
+  | Arc Button        	| Works  	|<br>
+  | Circle Button     	| Works  	|<br>
+  | Rectangle Button  	| Works  	|<br>
+  | Fill Button       	| Works  	|<br>
 ## Integration Tests: 
   - The login screen connects to the database and then displays the main window
   - Info pulled from the database can be displayed on the main window in the right panel
   - Save Button saves out the Job Info 
   - Save Drop Down button saves out Job Info
   
-# Results
-All Integration Tests, Testers: Sulav and Hannah
-  | Test Case                        	| Result 	|
-  |----------------------------------	|--------	|
-  | Login Page                       	| Works  	|
-  | Info displayed on Right Panel    	| Works  	|
-  | Functional Save Buttons          	| Works  	|
-  | Functional Drop Down Save Button 	| Works  	|
+### Results
+All Integration Tests, Testers: Sulav and Hannah<br>
+  | Test Case                        	| Result 	|<br>
+  |----------------------------------	|--------	|<br>
+  | Login Page                       	| Works  	|<br>
+  | Info displayed on Right Panel    	| Works  	|<br>
+  | Functional Save Buttons          	| Works  	|<br>
+  | Functional Drop Down Save Button 	| Works  	|<br>
 ## System Tests: 
   -Run tests from both Windows 10 and OSX Sierra Machines using C++11, Boost 1.66.0, and QT 5.6. 
   
-# Results
-All System Tests, Testers: Sulav and Hannah
-  | Test Case          	| Result 	|
-  |--------------------	|--------	|
-  | Runs on OSX        	| Works  	|
-  | Runs on Windows 10 	| Works  	|
+### Results
+All System Tests, Testers: Sulav and Hannah<br>
+  | Test Case          	| Result 	|<br>
+  |--------------------	|--------	|<br>
+  | Runs on OSX        	| Works  	|<br>
+  | Runs on Windows 10 	| Works  	|<br>
 ## Customer Tests:
   -Ensure the customer likes the look of the GUI
   -Ensure customer finds the GUI to be simple enough for intended audience 
