@@ -24,3 +24,7 @@ This week was focused on talking with teammates and improving the login and data
 
 ## Week of 4/2
 This week we looked at a lot of testing code and fixing bugs int he system we had. We also had a short meeting with Mike with a weekly update. Database connection is almost done and mostly bug free. More testing to be done.
+
+## Week of 4/9
+For this week we worked a lot on establishing connection and making sure it was working between mobile and database team.
+We also met with the teams as a whole and established our presentation and the parts to speak for.
