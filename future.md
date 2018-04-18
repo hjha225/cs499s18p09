@@ -1,2 +1,2 @@
 # Future Enhancements
-In Progress
+In the future, we would like to see a fully working product with all of the features the customer would like to have. There are many issues which will need to be fixed including better checking for things like if the query from the database is empty. There is a Readme included in our code which will hopefully help future programmers better understand how to get the code working on their machine. 
