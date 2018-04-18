@@ -1,2 +1,2 @@
 # Design Considerations
-In Progress
+This software exists as a framework and as a result is very buggy. Qt and Boost do not like each other and it is hard to link Boost to the Qt program however we have outlined one of the major bugs and how to get around it in a Readme included with our code. Our design changed a bit as we decided to narrow down what we were going to focus on. One of the restrictions is that one Windows the path to the Boost library you need is hard coded and will have to be changed depending on the machine. 
