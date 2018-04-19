@@ -32,3 +32,11 @@ This week our group member Shelby Oldfield dropped the class. This required me t
 ## Week of 3/26
 This week I completed my unit testing plan for the front end. I tested that all buttons and boxes had appropriate tool tips and that they displayed correctly. I also tested that the buttons on the right tab opened the correct info and that the next, previous, and exit buttons worked on all of these pages. I tested the buttons under the draw tab and that clicking on them displayed the correct left panel. I also tested that these pages could be exited. Currently we are integration testing and are still working out a few errors. Hannah met with Mike on Friday to have the customer test the GUI and he was overall satisfied, but has requested a few changes. After the errors of integration are fixed I plan to implement these changes.
 
+## Week of 4/1
+This week I added some tabs to the top ribbon. I also moved the right tabs so that an icon of the company could be displayed in the top right corner. Hannah worked on implementing the save function and creating a file type. Sulav worked out the kinks of connecting to the database. We also had our testing review this week.
+
+## Week of 4/8
+This week we completed our code review. I added some more comments to my code. Mainly this was just a header comment. Hannah completed the save function.  Sulav completed the login and the connection with the database. He implemented a test to display information that was pulled from the database. 
+
+## Week of 4/15
+We completed added comments to our code and gathered all relevant information to ensure it is available to future groups. Hannah organized our GitHub branch so that we could merge to the master. We practiced our final presentation with the database and mobile groups. We also presented at Keeping Current in Marksbury. I also completed the last two assignments for the course.
